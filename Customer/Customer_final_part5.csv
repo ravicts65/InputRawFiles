@@ -1,0 +1,201 @@
+CustomerID,Age,Gender,Income,Geography,Occupation,Phone,Email,LastUpdated
+CUST0800,27,Female,40609,Spain,Fisheries officer,001-768-961-0128x777,michael89@mathis.net,2025-02-10 08:30:14.583967
+CUST0801,47,Female,72130,Germany,"Scientist, physiological",6386208765,denise60@yahoo.com,2025-04-10 06:45:14.583989
+CUST0802,67,Male,92909,France,Technical brewer,586.020.8060x82977,coxgina@yahoo.com,2025-03-16 04:27:14.584016
+CUST0803,62,Male,75249,France,"Nurse, learning disability",+1-984-982-8025x11906,dillonnathan@dodson.com,2025-01-19 04:54:14.584038
+CUST0804,22,Female,68895,Spain,Hotel manager,001-172-668-3802x683,seanpeters@ayala.com,2025-04-10 16:59:14.584064
+CUST0805,50,Male,114473,Spain,Contracting civil engineer,(744)908-2850x22472,seangibson@yahoo.com,2025-02-28 15:52:14.584087
+CUST0806,18,Male,25656,Germany,Professor Emeritus,+1-572-159-9399x11526,kendra85@nelson-anderson.com,2025-01-23 12:07:14.584104
+CUST0807,35,Female,94520,Spain,"Nurse, adult",5171899299,linda83@gmail.com,2025-04-08 01:59:14.584119
+CUST0808,49,Male,83740,France,Research scientist (physical sciences),001-592-020-4487,brockphilip@hotmail.com,2025-03-01 05:13:14.584135
+CUST0809,64,Female,84309,Germany,"Physicist, medical",079.432.5563x48035,edward37@yahoo.com,2025-02-05 04:15:14.584154
+CUST0810,66,Male,49984,France,Furniture conservator/restorer,001-827-082-3036x690,ryan61@chang.com,2025-03-24 02:36:14.584177
+CUST0811,28,Female,93822,Germany,Clinical embryologist,(229)433-0581x6115,dianetorres@kirby-mcgee.info,2025-01-19 07:40:14.584193
+CUST0812,38,Male,25901,Spain,"Engineer, agricultural",293-567-4743,marysmith@klein.info,2025-03-08 17:28:14.584210
+CUST0813,43,Male,51552,Germany,Optometrist,001-940-220-4368x509,vanessa05@tapia.biz,2025-04-04 08:48:14.584225
+CUST0814,42,Female,111245,Germany,IT technical support officer,(932)117-9015,torresmichael@evans-howard.com,2025-02-14 19:42:14.584241
+CUST0815,39,Male,51055,France,Operational researcher,800-677-0101x7410,gellis@chen-wang.biz,2025-02-04 13:45:14.584260
+CUST0816,44,Female,57685,France,Patent attorney,5048894134,rachelramirez@daniels.net,2025-01-22 04:03:14.584276
+CUST0817,66,Male,93965,Germany,Psychiatrist,508.855.5098x5669,mario63@gmail.com,2025-02-19 05:22:14.584291
+CUST0818,30,Female,34716,Spain,Clinical biochemist,821.742.5421,leeantonio@yahoo.com,2025-01-18 23:12:14.584308
+CUST0819,50,Female,31138,Spain,Systems analyst,993.291.9143x71976,yford@gmail.com,2025-02-23 01:58:14.584333
+CUST0820,51,Female,55298,France,Civil Service fast streamer,+1-527-142-1950x41811,allisonsmith@gmail.com,2025-03-12 07:18:14.584357
+CUST0821,58,Female,71112,Spain,Microbiologist,508.308.0254x24169,banksscott@robertson.com,2025-02-25 23:29:14.584381
+CUST0822,52,Male,43429,France,"Psychotherapist, child",+1-468-496-3611,jesse81@costa.com,2025-04-15 15:41:14.584406
+CUST0823,18,Male,70200,Spain,"Therapist, occupational",884.551.1872x429,kimwilliams@ball-hodge.com,2025-02-07 01:41:14.584423
+CUST0824,38,Female,91308,Germany,Armed forces technical officer,+1-314-275-0911x8499,samantha45@wise-holland.com,2025-02-18 08:17:14.584438
+CUST0825,65,Female,68244,France,"Librarian, public",068.316.9148,sara05@joyce.com,2025-01-27 23:14:14.584454
+CUST0826,23,Female,37347,France,Diplomatic Services operational officer,328.710.8409x382,julia49@yahoo.com,2025-02-23 18:28:14.584469
+CUST0827,45,Male,36920,Germany,"Geneticist, molecular",648.891.4930,richard95@gmail.com,2025-03-26 12:48:14.584485
+CUST0828,34,Male,51822,France,Insurance claims handler,001-142-048-7880x7317,christopherparsons@sanders.info,2025-02-05 10:50:14.584500
+CUST0829,22,Male,66659,Spain,Financial controller,693-297-6992,john37@robinson.info,2025-02-26 01:38:14.584515
+CUST0830,48,Male,60108,Spain,Careers adviser,(253)562-2044x4093,bryce36@lee.com,2025-01-31 18:58:14.584531
+CUST0831,22,Female,109099,France,Printmaker,016-176-7851x370,jacobcummings@yahoo.com,2025-03-28 00:27:14.584546
+CUST0832,55,Female,27967,Spain,English as a second language teacher,248-119-1868x052,seanwhite@gmail.com,2025-03-16 16:15:14.584562
+CUST0833,20,Female,31871,France,Holiday representative,8129305656,vickiedavis@howell.info,2025-01-19 11:44:14.584577
+CUST0834,40,Male,114299,Germany,Health and safety inspector,(720)024-3500,leejustin@yahoo.com,2025-04-04 08:18:14.584592
+CUST0835,54,Male,97452,France,Nutritional therapist,001-481-941-1528x61186,riveramichael@yahoo.com,2025-04-05 21:11:14.584608
+CUST0836,54,Male,94270,Germany,"Engineer, structural",001-732-538-9494x0558,mbryant@hunt-alexander.com,2025-03-09 12:56:14.584624
+CUST0837,27,Female,53613,Spain,Information officer,001-293-840-0226x98275,jeffreybell@boyd-mcdonald.biz,2025-01-30 05:21:14.584639
+CUST0838,27,Female,48179,Germany,"Programme researcher, broadcasting/film/video",2804228041,zwebb@alvarado.net,2025-02-04 16:19:14.584655
+CUST0839,36,Male,72188,Spain,Tour manager,4051109275,rhonda67@hotmail.com,2025-01-24 14:48:14.584670
+CUST0840,34,Female,75099,France,"Radiographer, therapeutic",6249773477,brianreynolds@hotmail.com,2025-04-12 16:03:14.584686
+CUST0841,38,Male,55262,Spain,Multimedia specialist,725-444-3097,davidsonmarie@yahoo.com,2025-03-26 08:17:14.584701
+CUST0842,31,Male,98213,France,Film/video editor,(688)137-1057,tammy56@brown.com,2025-02-24 20:23:14.584716
+CUST0843,26,Female,38268,France,Medical laboratory scientific officer,300-148-7685x7461,murraymallory@yahoo.com,2025-03-02 13:17:14.584732
+CUST0844,63,Male,97866,Germany,Furniture designer,(220)499-7325,wmiddleton@martinez.info,2025-03-18 01:15:14.584747
+CUST0845,18,Female,106269,Germany,Exercise physiologist,685-734-2717,aaronchapman@yahoo.com,2025-01-26 20:39:14.584763
+CUST0846,68,Male,80545,Germany,"Psychologist, prison and probation services",+1-431-994-8355,hollyblackburn@hotmail.com,2025-01-26 11:43:14.584778
+CUST0847,62,Female,112822,Germany,Chemical engineer,006.870.1803x6300,phillip30@kelley.com,2025-03-17 00:53:14.584793
+CUST0848,30,Female,92146,Spain,"Scientist, research (medical)",+1-804-519-0434,brandonwells@wright-osborne.org,2025-03-26 12:26:14.584813
+CUST0849,21,Female,91966,Spain,Farm manager,200.936.7365x78666,ebrown@yahoo.com,2025-03-05 18:30:14.584830
+CUST0850,18,Male,59922,Spain,Radio broadcast assistant,001-338-848-2100x98461,alansmith@obrien-davis.biz,2025-04-15 00:23:14.584845
+CUST0851,66,Male,99364,France,"Producer, television/film/video",+1-393-570-2365x400,nlang@yahoo.com,2025-03-11 23:27:14.584861
+CUST0852,57,Female,62913,Spain,Energy engineer,(027)190-9498,wadevalerie@gmail.com,2025-02-19 04:56:14.584876
+CUST0853,49,Female,117033,Spain,Estate agent,(372)896-3235,wilsondarlene@yahoo.com,2025-02-04 08:53:14.584891
+CUST0854,51,Male,75677,Spain,Travel agency manager,5725350914,palmerlauren@ochoa.com,2025-02-05 23:24:14.584907
+CUST0855,45,Male,69841,Germany,"Research officer, trade union",682-364-5872x2674,wheelerisaac@gmail.com,2025-04-15 00:56:14.584922
+CUST0856,48,Male,66332,Spain,Printmaker,228-930-6820x8095,bradleycox@gmail.com,2025-02-04 01:35:14.584937
+CUST0857,25,Female,112062,France,Restaurant manager,+1-527-594-2590,jason88@yahoo.com,2025-01-21 20:38:14.584953
+CUST0858,56,Male,115694,Germany,Chief Financial Officer,243.572.8277,ujones@malone.com,2025-04-15 17:06:14.584968
+CUST0859,43,Male,45032,France,Structural engineer,762-739-0256,albertgeorge@gmail.com,2025-02-03 00:11:14.584993
+CUST0860,51,Female,57846,Spain,Seismic interpreter,(818)038-7544x007,millerpenny@hotmail.com,2025-02-12 14:03:14.585019
+CUST0861,20,Male,79474,Germany,Environmental health practitioner,(831)075-0140x392,jacqueline05@yates.com,2025-01-28 12:30:14.585040
+CUST0862,67,Male,64936,France,Regulatory affairs officer,+1-977-151-2031x1342,nphelps@baldwin.biz,2025-01-31 18:25:14.585060
+CUST0863,29,Male,49794,Spain,"Geneticist, molecular",104.700.1213x31799,karenmartin@gmail.com,2025-01-19 01:33:14.585085
+CUST0864,18,Female,81588,France,"Lighting technician, broadcasting/film/video",756.747.2507x958,abigailnewton@barajas-gonzales.com,2025-01-29 13:12:14.585101
+CUST0865,61,Female,90984,France,"Engineer, mining",(588)505-4800,gperez@rodriguez-hill.com,2025-02-20 22:24:14.585117
+CUST0866,22,Female,70331,France,Multimedia specialist,001-031-648-5911x91830,brian55@may-molina.info,2025-03-15 17:39:14.585132
+CUST0867,47,Female,114397,Spain,Clinical molecular geneticist,164-662-8955x590,hernandezsteven@gmail.com,2025-01-21 20:33:14.585148
+CUST0868,47,Female,48141,Spain,Logistics and distribution manager,539-557-6196x962,robertsonpamela@hotmail.com,2025-03-14 12:46:14.585163
+CUST0869,34,Female,29074,France,Graphic designer,423.966.4615x1304,leahjames@yahoo.com,2025-04-10 08:51:14.585179
+CUST0870,65,Female,26406,Germany,Research scientist (maths),(552)544-6023,imiller@cox.info,2025-02-05 14:52:14.585195
+CUST0871,64,Male,117359,Germany,Dealer,001-043-427-2546x870,michelle22@gmail.com,2025-01-16 02:18:14.585210
+CUST0872,40,Male,43291,Spain,Product designer,001-545-900-9128x5735,qlewis@yahoo.com,2025-03-28 07:00:14.585231
+CUST0873,32,Female,61568,Spain,Technical sales engineer,549-488-1622x66029,joseph38@yahoo.com,2025-03-19 03:32:14.585275
+CUST0874,54,Male,117539,Spain,Dispensing optician,001-733-867-6766x0374,andrea00@williamson-bond.com,2025-03-25 10:36:14.585294
+CUST0875,38,Male,66851,Spain,Call centre manager,+1-100-590-8230x472,ravery@ryan-smith.com,2025-04-02 15:33:14.585310
+CUST0876,31,Female,119942,Spain,Education administrator,001-798-855-5806x582,jessica80@gmail.com,2025-03-08 21:51:14.585325
+CUST0877,19,Male,74823,Germany,Translator,001-473-365-2329x815,jennifercraig@yahoo.com,2025-03-31 12:12:14.585341
+CUST0878,28,Male,43312,Spain,Police officer,(454)168-8646,burnspatrick@long.com,2025-02-01 22:12:14.585357
+CUST0879,68,Male,63108,France,Records manager,541-149-4163x04572,amandarussell@gmail.com,2025-01-14 17:38:14.585372
+CUST0880,56,Male,86918,France,"Scientist, research (life sciences)",749.094.9784x550,walshdawn@gmail.com,2025-03-05 03:31:14.585388
+CUST0881,55,Male,54171,Germany,Clinical molecular geneticist,9880333590,sloanmelanie@jones-odom.org,2025-02-25 04:58:14.585403
+CUST0882,51,Female,61779,France,"Psychotherapist, dance movement",9919649993,matthewwolf@gmail.com,2025-03-09 19:40:14.585419
+CUST0883,55,Female,88828,Germany,Actuary,+1-878-910-6116x258,robinpeters@gmail.com,2025-02-28 22:52:14.585435
+CUST0884,67,Female,118723,Germany,"Teacher, primary school",001-068-199-1403,watsonnichole@hotmail.com,2025-03-07 02:00:14.585450
+CUST0885,51,Male,32411,France,Facilities manager,001-683-887-5882x572,ariel45@mcdonald-hunt.com,2025-04-02 20:45:14.585466
+CUST0886,35,Female,77009,Spain,Wellsite geologist,+1-157-950-9987x9237,howardbianca@reynolds.com,2025-02-08 04:13:14.585482
+CUST0887,47,Male,35422,France,"Programmer, multimedia",649.052.2941,bucksonia@patterson-price.com,2025-02-24 13:58:14.585497
+CUST0888,32,Male,62468,France,"Programmer, applications",+1-610-121-3830x778,muellerrobert@hotmail.com,2025-01-21 12:45:14.585513
+CUST0889,44,Male,52371,Germany,Chief Operating Officer,818.410.3275x840,kevin57@thompson.biz,2025-01-15 05:59:14.585528
+CUST0890,68,Male,77022,France,"Surveyor, quantity",904-403-9420x048,kevinhernandez@dominguez-obrien.org,2025-03-23 05:09:14.585544
+CUST0891,51,Female,91229,Germany,Legal secretary,(206)789-6645x73580,simpsonryan@yahoo.com,2025-02-14 07:05:14.585560
+CUST0892,69,Female,119071,Spain,Risk analyst,+1-456-462-9863x0408,tmata@davis.biz,2025-02-18 14:00:14.585575
+CUST0893,55,Male,71196,Spain,"Designer, exhibition/display",150.185.5721x774,travisphillips@taylor-perez.org,2025-02-01 20:22:14.585591
+CUST0894,50,Female,100354,Spain,"Buyer, retail",357.018.3200x6419,jesuscoleman@barajas.info,2025-02-16 10:03:14.585606
+CUST0895,41,Male,116774,France,Product/process development scientist,+1-402-554-8904x5667,edwardrogers@yahoo.com,2025-04-13 05:27:14.585622
+CUST0896,32,Female,116410,Germany,Medical laboratory scientific officer,(188)640-7983,alexander67@hotmail.com,2025-03-19 03:04:14.585637
+CUST0897,47,Female,46715,Spain,Catering manager,+1-987-257-3096x897,melissa36@hotmail.com,2025-03-23 08:06:14.585653
+CUST0898,59,Male,47605,Germany,Lobbyist,465-198-8358x77387,kirk25@hotmail.com,2025-03-28 07:01:14.585668
+CUST0899,68,Female,119853,Germany,Aid worker,807.921.6373x78939,jeffreymartin@hotmail.com,2025-02-17 11:46:14.585688
+CUST0900,34,Male,51174,Spain,Intelligence analyst,0395149541,buchanancraig@yahoo.com,2025-01-23 01:31:14.585705
+CUST0901,22,Female,29956,Spain,Financial manager,356.298.8754x9998,lauren13@wheeler-eaton.com,2025-01-16 08:06:14.585721
+CUST0902,46,Male,96373,Germany,Environmental manager,(450)894-6365x92231,christina51@wilson-evans.com,2025-02-27 12:46:14.585736
+CUST0903,21,Male,89252,Spain,Television floor manager,155-792-8698x036,laura62@johnston.com,2025-02-02 06:30:14.585752
+CUST0904,27,Female,81949,Germany,Podiatrist,233.693.6212,elizabeth70@gmail.com,2025-03-29 14:17:14.585767
+CUST0905,34,Female,82646,Germany,"Surveyor, building",+1-961-518-7304x27992,daniel42@hotmail.com,2025-03-23 05:29:14.585783
+CUST0906,27,Male,90017,Spain,"Therapist, speech and language",386.581.8695x936,jmoreno@young.net,2025-02-18 04:04:14.585798
+CUST0907,34,Female,83037,France,Warehouse manager,+1-689-055-8340x40706,kmoon@hotmail.com,2025-01-28 00:04:14.585814
+CUST0908,37,Female,109818,Spain,"Accountant, chartered certified",(480)225-0362x574,tpage@gmail.com,2025-02-26 11:25:14.585830
+CUST0909,41,Male,26548,France,Writer,281.949.0603,kcole@hotmail.com,2025-02-01 04:27:14.585845
+CUST0910,22,Male,93294,Germany,"Surveyor, building",336.053.4796,iphillips@smith-johnston.biz,2025-04-03 02:56:14.585861
+CUST0911,51,Female,43177,Germany,Environmental education officer,100-638-5305x4921,jesushubbard@parrish.com,2025-01-16 12:05:14.585876
+CUST0912,23,Male,44022,France,Medical illustrator,194.534.7696x8456,andreadavidson@craig.net,2025-03-12 07:31:14.585892
+CUST0913,19,Male,25542,Germany,"Lecturer, further education",001-001-316-1141,zking@hotmail.com,2025-01-21 16:23:14.585907
+CUST0914,30,Male,111012,France,Surgeon,(537)201-2974x9790,ybuck@gross.com,2025-03-19 10:33:14.585923
+CUST0915,60,Female,116320,France,"Nurse, learning disability",371.522.7880,obrown@williams.com,2025-03-19 13:04:14.585941
+CUST0916,60,Female,80428,Germany,Chief Technology Officer,120-039-0685x767,davidbaxter@yahoo.com,2025-02-01 11:17:14.585957
+CUST0917,65,Male,42740,France,Emergency planning/management officer,338-766-7040x061,deckertroy@hines.info,2025-02-14 02:06:14.585973
+CUST0918,28,Female,79353,Spain,Senior tax professional/tax inspector,001-374-565-0864,penny75@yahoo.com,2025-02-12 00:18:14.585988
+CUST0919,68,Male,110353,Spain,Psychiatric nurse,+1-739-549-4898x9924,william46@gmail.com,2025-02-18 10:41:14.586004
+CUST0920,64,Female,76532,Germany,Glass blower/designer,2961046487,ojohnson@clark-hamilton.com,2025-03-22 17:44:14.586019
+CUST0921,40,Male,36052,Germany,Chief Financial Officer,+1-604-164-2291x0609,paulandre@wilcox.com,2025-04-11 10:05:14.586034
+CUST0922,33,Male,67076,France,"Engineer, maintenance",3017807248,hannahdyer@case.com,2025-02-14 18:04:14.586050
+CUST0923,48,Female,73420,France,Contractor,262.438.3030x26250,andrew81@yahoo.com,2025-01-17 13:53:14.586065
+CUST0924,28,Male,20671,France,"Producer, television/film/video",(441)253-9352,olopez@gmail.com,2025-03-31 08:48:14.586081
+CUST0925,33,Female,20163,France,Metallurgist,001-632-631-3890x5977,herrerasteven@hotmail.com,2025-01-28 22:30:14.586096
+CUST0926,25,Female,61424,Spain,Manufacturing systems engineer,+1-957-445-1271x911,jacob31@hall.biz,2025-03-01 21:10:14.586115
+CUST0927,21,Male,73744,Spain,Higher education lecturer,833.730.3298x31706,owilliams@gmail.com,2025-03-30 22:09:14.586141
+CUST0928,57,Male,90331,Germany,Landscape architect,(055)447-0752x6354,brownjacob@gmail.com,2025-01-17 17:03:14.586158
+CUST0929,21,Female,30634,France,Artist,185-071-4581x3193,ismith@martinez.com,2025-01-19 18:58:14.586181
+CUST0930,42,Male,24798,France,"Civil engineer, consulting",(907)547-8997x77416,donna86@price-zimmerman.org,2025-02-25 16:03:14.586201
+CUST0931,20,Male,42420,Germany,Early years teacher,591.033.2508,omendoza@yahoo.com,2025-03-12 20:18:14.586217
+CUST0932,49,Male,49300,France,Ecologist,141-170-5196,andrea00@barber.info,2025-03-23 23:20:14.586232
+CUST0933,20,Male,109881,France,Medical technical officer,001-695-893-5354x341,jeremy78@hotmail.com,2025-02-02 19:37:14.586248
+CUST0934,44,Male,30749,France,Psychiatric nurse,083-707-3112,mbrown@hotmail.com,2025-01-17 14:26:14.586263
+CUST0935,46,Female,45121,France,Orthoptist,001-865-870-8033x52727,rachelcooper@gmail.com,2025-01-22 23:17:14.586279
+CUST0936,49,Female,57487,France,Charity fundraiser,+1-642-005-6619x23352,melissamiller@dunn-green.com,2025-02-12 14:43:14.586298
+CUST0937,67,Male,113947,Germany,"Production designer, theatre/television/film",001-550-087-2439,mrangel@johnson.com,2025-03-23 02:52:14.586320
+CUST0938,68,Male,53361,France,Chief Executive Officer,5908541838,jonathanallen@yahoo.com,2025-03-23 06:09:14.586336
+CUST0939,36,Male,41223,Germany,Passenger transport manager,753.715.5069x1729,brianchang@hotmail.com,2025-02-11 03:27:14.586351
+CUST0940,38,Female,92930,France,Clothing/textile technologist,9091373957,xharrison@gmail.com,2025-03-04 16:32:14.586367
+CUST0941,22,Male,34056,Spain,"Engineer, energy",141-659-5524x5295,erin31@gmail.com,2025-04-02 23:50:14.586383
+CUST0942,35,Female,48380,Spain,Water quality scientist,(987)546-8007,carterdavid@chambers.net,2025-02-28 16:54:14.586398
+CUST0943,45,Female,46035,Spain,Charity officer,974-983-7426x183,kevin71@wallace-douglas.biz,2025-02-05 21:56:14.586414
+CUST0944,59,Female,50620,Spain,Art gallery manager,696-270-4025,liucassandra@yahoo.com,2025-04-11 04:14:14.586430
+CUST0945,39,Male,39877,Germany,Automotive engineer,+1-149-187-8869x0666,chloemolina@bowen.com,2025-03-09 03:32:14.586446
+CUST0946,38,Female,75316,Germany,Armed forces operational officer,589-033-1232x29241,benjaminalicia@patton.info,2025-02-03 19:53:14.586461
+CUST0947,23,Male,84041,France,Occupational therapist,001-523-506-4610,hmcguire@hotmail.com,2025-04-01 14:06:14.586477
+CUST0948,18,Female,73352,Spain,Emergency planning/management officer,(980)602-3773,williamscurtis@santos-jackson.com,2025-02-28 12:49:14.586493
+CUST0949,22,Male,50911,Germany,Site engineer,3931929699,huntermichael@gmail.com,2025-02-22 19:47:14.586508
+CUST0950,58,Female,52784,France,Meteorologist,0345396729,donaldharrison@beasley.com,2025-03-30 15:19:14.586530
+CUST0951,29,Male,23191,France,Neurosurgeon,001-901-450-4494x2634,cowens@oliver.com,2025-03-09 23:58:14.586546
+CUST0952,43,Female,53160,Germany,Sales promotion account executive,+1-139-869-8750,stephen88@lam.biz,2025-01-14 19:29:14.586562
+CUST0953,63,Male,110536,Spain,Oncologist,(333)872-7558,jameswhite@gmail.com,2025-03-09 16:12:14.586577
+CUST0954,51,Male,84641,France,Equities trader,1842797391,caseymichael@white-harris.org,2025-03-25 10:24:14.586592
+CUST0955,66,Male,69723,Spain,"Surveyor, mining",(480)029-8085,christopher89@anderson.net,2025-03-11 15:41:14.586608
+CUST0956,31,Male,23631,Spain,Forest/woodland manager,001-875-848-7114x2876,danieljohnson@hotmail.com,2025-03-04 20:33:14.586623
+CUST0957,43,Female,26172,Spain,Textile designer,912-905-1325,samuelcastillo@hotmail.com,2025-02-07 14:48:14.586638
+CUST0958,62,Female,62080,France,Marketing executive,355.174.6057x3367,jgarza@williams.org,2025-03-16 17:33:14.586654
+CUST0959,44,Male,109097,Spain,"Scientist, water quality",(202)320-5876x55926,jamessmall@boyle.com,2025-03-29 11:18:14.586669
+CUST0960,26,Female,110353,France,Pension scheme manager,686-638-7630x127,ryan68@hotmail.com,2025-02-08 17:18:14.586684
+CUST0961,43,Male,40281,Spain,Exercise physiologist,213-351-8139,kevin50@gmail.com,2025-03-18 04:12:14.586700
+CUST0962,64,Male,48671,France,Technical author,683-796-1125,micheal73@hotmail.com,2025-03-03 12:03:14.586716
+CUST0963,39,Female,71431,Spain,"Therapist, sports",395.430.7387x8195,jessicahenry@pittman.com,2025-01-28 17:59:14.586731
+CUST0964,64,Male,110900,Germany,Advertising art director,170.913.2257x629,drew30@yahoo.com,2025-02-07 05:45:14.586746
+CUST0965,47,Male,112961,Spain,Colour technologist,394-042-5499x2001,brownstephanie@hotmail.com,2025-04-02 08:27:14.586762
+CUST0966,60,Female,48602,Spain,"Psychotherapist, dance movement",+1-068-268-1960x83889,nicoledyer@gmail.com,2025-03-14 07:36:14.586777
+CUST0967,65,Male,108789,France,Biomedical engineer,043.770.8365x19849,bduncan@garcia.org,2025-03-21 14:55:14.586792
+CUST0968,34,Male,71399,France,Building services engineer,001-838-161-6514x3273,larrymccoy@yahoo.com,2025-04-07 15:22:14.586808
+CUST0969,43,Male,43472,Spain,"Optician, dispensing",(027)478-8066x77002,kwang@gmail.com,2025-01-19 22:51:14.586823
+CUST0970,53,Male,69230,Germany,Trading standards officer,204.998.6835,jonathanmckay@yahoo.com,2025-03-16 10:24:14.586838
+CUST0971,18,Female,93616,Germany,Chiropodist,+1-917-367-8508x898,njohnson@kim.net,2025-04-01 17:04:14.586854
+CUST0972,25,Female,27099,France,Community education officer,525.259.3543,byrdsamantha@gmail.com,2025-03-07 14:56:14.586869
+CUST0973,66,Female,45431,Germany,"Sales professional, IT",321.350.4931,vazquezkelsey@hotmail.com,2025-04-13 21:25:14.586888
+CUST0974,52,Male,76492,Spain,Housing manager/officer,622-313-2701x460,paula03@cook.org,2025-01-30 10:15:14.586904
+CUST0975,69,Male,116722,France,"Scientist, research (life sciences)",(481)253-4960,leetaylor@davis-gibbs.net,2025-03-07 11:20:14.586920
+CUST0976,32,Female,67684,Spain,"Administrator, local government",001-476-115-8034x587,felicia43@yahoo.com,2025-04-02 10:52:14.586939
+CUST0977,64,Male,50111,France,Artist,+1-065-923-8454x127,aferguson@gmail.com,2025-02-05 10:37:14.586956
+CUST0978,39,Male,83936,France,Games developer,(783)208-8070x661,heatherkramer@yahoo.com,2025-04-06 12:46:14.586971
+CUST0979,31,Male,42614,France,Agricultural engineer,584.286.0984,anthony42@yahoo.com,2025-03-28 02:25:14.586987
+CUST0980,43,Male,112260,France,Geoscientist,001-045-574-6618x3518,tateraymond@bowers.com,2025-03-14 23:12:14.587002
+CUST0981,45,Female,61991,Germany,"Scientist, research (life sciences)",+1-670-862-4587x34016,olsondavid@yahoo.com,2025-03-06 12:41:14.587017
+CUST0982,40,Female,90476,Spain,Commercial/residential surveyor,001-014-948-6551,jeffreyjefferson@yahoo.com,2025-02-09 00:44:14.587033
+CUST0983,31,Female,80920,Spain,Glass blower/designer,001-697-117-2901x428,lorijohnson@yahoo.com,2025-01-28 00:11:14.587048
+CUST0984,41,Male,114294,Spain,"Designer, fashion/clothing",2381532719,adamsjohn@hotmail.com,2025-02-01 16:43:14.587064
+CUST0985,19,Female,83530,France,Building control surveyor,001-246-285-2852x486,aaron93@yahoo.com,2025-03-18 03:35:14.587079
+CUST0986,62,Female,56224,Germany,Field seismologist,001-836-000-7738x87285,alexis13@yahoo.com,2025-03-26 01:30:14.587094
+CUST0987,43,Male,27788,Spain,Paramedic,+1-189-836-5409,andrew76@yahoo.com,2025-03-29 02:39:14.587110
+CUST0988,31,Male,48082,Germany,"Journalist, newspaper",+1-177-753-3562x3416,emily86@yahoo.com,2025-02-28 00:37:14.587125
+CUST0989,68,Female,109570,France,Contractor,001-377-052-5539x70064,joseph44@yahoo.com,2025-03-05 16:09:14.587140
+CUST0990,24,Female,96816,Spain,Set designer,+1-739-836-6293x62613,angelicajenkins@bush.com,2025-03-12 20:16:14.587156
+CUST0991,20,Female,103588,Germany,"Accountant, chartered certified",147-551-8721,petersenbrittany@gmail.com,2025-03-23 21:21:14.587171
+CUST0992,64,Female,36531,France,Market researcher,936.135.6681,acostacarolyn@stewart-carroll.org,2025-02-05 04:39:14.587186
+CUST0993,40,Male,108340,Germany,Medical physicist,119-834-6463x2583,wrivera@thomas-velazquez.biz,2025-04-09 12:26:14.587207
+CUST0994,63,Female,114439,Spain,Management consultant,547.394.1936x865,navarromichelle@yahoo.com,2025-03-29 22:09:14.587228
+CUST0995,60,Female,64857,Spain,Accounting technician,001-014-841-9251,rioserin@smith-bell.com,2025-03-15 18:11:14.587244
+CUST0996,64,Male,30142,France,Community development worker,844-574-1536x50132,gravesjacob@rios.org,2025-02-02 13:07:14.587283
+CUST0997,62,Female,68355,France,Clinical molecular geneticist,(358)944-2829x94235,williamsricardo@rodriguez.biz,2025-03-11 06:16:14.587311
+CUST0998,35,Male,29866,France,Early years teacher,(349)634-8141x6380,rhondapineda@marsh-flores.org,2025-02-14 13:26:14.587332
+CUST0999,55,Male,90067,Germany,Art gallery manager,415-888-0364,rebecca37@anderson.com,2025-04-12 06:53:14.587347
